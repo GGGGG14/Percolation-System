@@ -1,14 +1,4 @@
 /******************************************************************************
- *  Name: Dawson Lee
- *
- *  Operating system: macOS High Sierra
- *  Compiler: XCode
- *  Text editor / IDE: XCode
- *  Hours to complete assignment (optional): 8-10 hours
- ******************************************************************************/
-
-
-/******************************************************************************
  *  Describe how you implemented Percolation.cpp. How did you check
  *  whether the system percolates?
  *****************************************************************************/
